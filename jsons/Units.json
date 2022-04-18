@@ -1,0 +1,45 @@
+[
+    {
+		"name": "Ledni chodec",
+        "replaces":"Scout",
+        "uniqueTo":"Arktida",
+		"unitType": "Scout",
+		"movement": 3,
+		"strength": 8,
+		"cost": 25,
+		"requiredTech": "Pottery",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+        "uniques":["[+30]% Strength <when fighting in [Tundra] tiles>","[+30]% Strength <when fighting in [Snow] tiles>"],
+		"attackSound": "shot"
+	},{
+         "name": "Divoch",
+        "replaces":"Warrior",
+        "uniqueTo":"Neandrtalci",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 10,
+		"cost": 20,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Bronze Working",
+		"upgradesTo": "Swordsman",
+        "uniques":["[+10]% Strength <when attacking>","[+20]% Strength <vs cities>","[+1] Sight"],
+		"attackSound": "nometalhit"
+	},{
+         "name": "Lovec",
+        "replaces":"Horseman",
+        "uniqueTo":"Neandrtalci",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 11,
+		"cost": 35,
+		"requiredTech": "Trapping",
+		"obsoleteTech": "Civil Service",
+                "promotions": ["Drill I"] 
+		"upgradesTo": "Pikeman",
+        "uniques":["[+10]% Strength <when fighting in [Forest] tiles>","[+20]% Strength <vs [Mounted] units>"],
+		"attackSound": "hit"
+	}
+       
+
+]

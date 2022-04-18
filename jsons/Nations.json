@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Arktida",
+		"leaderName": "Sněhovec",
+		"adjective": ["Sněhovci"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Cultural",
+		
+
+		"startIntroPart1": "Pojďme zamrazit svět.",
+		
+
+		"declaringWar": "i ty zamrzneš.",
+		"attacked": "další do zbírky",
+		"defeated": "jen počkejte do další doby ledové, my se vrátíme.",
+		"introduction": "Je nám ctí ochladit vás naší přítomoností",
+
+		"neutralHello": "Zima co?",
+		"hateHello": "jen počkej my ti ještě ukážeme.",
+
+		"tradeRequestPart1": "tak ty by jsi chtěl obchodovat.",
+                "tradeRequestPart2": "stejně ber tohle nebo dostaneš leda tak sníh"
+		"outerColor": [255, 255, 255],
+		"innerColor": [0, 0, 200],
+		
+		"uniqueName": "Sněhovci",
+		"uniques": ["[+2 Food] from [Snow] tiles [in all cities]","[+2 Production] [in capital]","[+30]% Strength <when fighting in [Tundra] tiles>","[+30]% Strength <when fighting in [Snow] tiles>"] 
+		"cities": ["Sněznice","Sněžná brázda","Ledov","Lednice","Tady taky mrzne","Ledárna","Podnulov","Chládek","Trakařov","Ledovice","Santov"]
+	},{
+            "name": "Neandrtalci",
+            "LeaderName": "Kámen Těžký",
+            "adjective": ["Neandrtalci"],
+            "startbais": ["Forest"],
+            
+"preferredVictoryType": "Domination",
+
+         "startIntroPart1": "Uga bunga!!."
+
+             "declaringWar": "Maso!!!.",
+              "attacked": "Au to bolet!!",
+	"defeated": "ty zlý.",
+	"introduction": "Hele kořist",
+         
+"neutralHello": "Já hodný",
+"hateHello": "Grrrrr.",
+        
+"tradeRequestPart1": "kožešinu za pazourek?.",
+ "tradeRequestPart2": "dej to sem a můžeš jít"
+		"outerColor": [225, 128, 0],
+		"innerColor": [255, 0, 0],
+                
+"uniqueName": "Neandrtalci",
+		"uniques":["[+20]% [Food] [in all cities] <when at war>","[+15]% [Production] [in all cities] <when at war>","[+50]% Strength <before the [Classical era]>","[+20]% [Culture] [in all cities] <when at war>","Receive free [Warrior] when you discover [Mining]","Receive free [Warrior] when you discover [Pottery]","Receive free [Archer] when you discover [Archery]","Receive free [Archer] when you discover [Archery]","Receive free [Lovec] when you discover [Trapping]",]
+                "cities": ["Skála","Hromová hora",Jelení úval","Rákos","Brunga","BAG-ung","Katungh-bagal","Ohňov","Danga","Quig","Velká Díra"]  
+              }
+]

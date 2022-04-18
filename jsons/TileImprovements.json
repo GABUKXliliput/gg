@@ -1,0 +1,27 @@
+[
+    {
+		"name": "Farma na ledohubky",
+		"uniqueTo": "Arktida",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Snow","Tundra"],
+        "replaces":"Farm",
+		"food": 1,
+		"gold":1,
+		"turnsToBuild": 9,
+		"uniques": [
+			"Can also be built on tiles adjacent to fresh water",
+			"[+1 Food] from [Snow] tiles <after discovering [Civil Service]>",
+			"[+1 Food] from [Tundra] tiles <after discovering [Fertilizer]>"],
+		"techRequired": "Calendar",
+		"shortcutKey": "F"
+	},{
+		"name": "Hloubkovy vrt na led",
+		"uniqueTo": "Arktida",
+		"terrainsCanBeBuiltOn": ["Snow","Tundra"],
+                "replaces":"Fort"
+		"food": 6,
+		"production":8,
+		"turnsToBuild": 21,
+		"techRequired": "Steam Power",
+		"shortcutKey": "F"
+	}
+]

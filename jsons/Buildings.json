@@ -1,0 +1,37 @@
+[
+    {
+		"name": "Iglu",
+		"replaces": "Granary",
+		"uniqueTo": "Arktida",
+		"food": 2,
+        "production":1,
+        "Culture":1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+	},{
+		"name": "Jeskyni sklad",
+        "uniqueTo":"Arktida",
+		"cost": 40,
+		"culture": 5,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Iglu] in all cities", "[+3 Food] from every [Iglu]","[+1 Food] from every [Farma na Ledohubky]", "Cost increases by [20] per owned city"],
+		
+	},{
+		"name": "Manufaktura na led",
+        "uniqueTo":"Arktida",
+		"cost": 60,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Factory] in all cities","[+3 Production] from every [Hloubkovy vrt na led]","[+1 Production] from every [Farma na Ledohubky]", "Cost increases by [20] per owned city","[+20]% Strength"],
+            },{
+                 "name": "tovarna na deleni ledu",
+		"replaces": "Hydro Plant",
+		"uniqueTo": "Arktida",
+        "production":20,
+		"cost": 700,
+		"hurryCostModifier": 1000,
+		"maintenance": 15,
+                 "requiredTech":"Electricity",
+	}
+]
