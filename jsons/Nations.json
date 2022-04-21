@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Arktida",
-		"leaderName": "Sněhovec",
+		"leaderName":"Sněhovec",
 		"adjective": ["Sněhovci"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Cultural",
@@ -50,7 +50,7 @@
 		"innerColor": [255, 0, 0],
                 
 "uniqueName": "Neandrtalci",
-		"uniques":["[+20]% [Food] [in all cities] <when at war>","[+15]% [Production] [in all cities] <when at war>","[+50]% Strength <before the [Classical era]>","[+20]% [Culture] [in all cities] <when at war>","Receive free [Warrior] when you discover [Mining]","Receive free [Warrior] when you discover [Pottery]","Receive free [Archer] when you discover [Archery]","Receive free [Archer] when you discover [Archery]","Receive free [Lovec] when you discover [Trapping]",]
-                "cities": ["Skála","Hromová hora",Jelení úval","Rákos","Brunga","BAG-ung","Katungh-bagal","Ohňov","Danga","Quig","Velká Díra"]  
+		"uniques":["[+15]% [Food] [in all cities] <when at war>","[+10]% [Production] [in all cities] <when at war>","[+50]% Strength <before the [Classical era]>","[+5]% [Culture] [in all cities] <when at war>","Receive free [Warrior] when you discover [Mining]","Receive free [Warrior] when you discover [Pottery]","Receive free [Archer] when you discover [Archery]","Receive free [Archer] when you discover [Archery]","Receive free [Lovec] when you discover [Trapping]",]
+                "cities": ["Skála","Hromová hora","Jelení úval","Rákos","Brunga","BAG-ung","Katungh-bagal","Ohňov","Danga","Quig","Velká Díra"]  
               }
 ]
