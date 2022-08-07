@@ -28,7 +28,7 @@
 		"cities": ["Sněznice","Sněžná brázda","Ledov","Lednice","Tady taky mrzne","Ledárna","Podnulov","Chládek","Trakařov","Ledovice","Santov"]
 	},{
             "name": "Neandrtalci",
-            "LeaderName": "Kámen Těžký",
+            "LeaderName":"Kámen Těžký",
             "adjective": ["Neandrtalci"],
             "startbais": ["Forest"],
             
@@ -45,12 +45,12 @@
 "hateHello": "Grrrrr.",
         
 "tradeRequestPart1": "kožešinu za pazourek?.",
- "tradeRequestPart2": "dej to sem a můžeš jít"
+ "tradeRequestPart2": "dej to sem a můžeš jít",
 		"outerColor": [225, 128, 0],
 		"innerColor": [255, 0, 0],
                 
 "uniqueName": "Neandrtalci",
-		"uniques":["[+15]% [Food] [in all cities] <when at war>","[+10]% [Production] [in all cities] <when at war>","[+50]% Strength <before the [Classical era]>","[+5]% [Culture] [in all cities] <when at war>","Receive free [Warrior] when you discover [Mining]","Receive free [Warrior] when you discover [Pottery]","Receive free [Archer] when you discover [Archery]","Receive free [Archer] when you discover [Archery]","Receive free [Lovec] when you discover [Trapping]",]
+		"uniques":["[+7]% [Food] [in all cities] <when at war>","[+8]% [Production] [in all cities] <when at war>","[+30]% Strength <before the [Classical era]>","[+5]% [Culture] [in all cities] <when at war>","Receive free [Warrior] when you discover [Mining]","Receive free [Warrior] when you discover [Pottery]","Receive free [Archer] when you discover [Archery]","Receive free [Archer] when you discover [Archery]","Receive free [Lovec] when you discover [Trapping]",]
                 "cities": ["Skála","Hromová hora","Jelení úval","Rákos","Brunga","BAG-ung","Katungh-bagal","Ohňov","Danga","Quig","Velká Díra"]  
               }
 ]
